@@ -1,6 +1,7 @@
 {
     "name" : "flowdee/paapi5-php-sdk",
     "description" : "Providing the official of Amazon Product Advertising API v5 SDK for PHP as composer package.",
+    "type": "library",
     "version" : "1.0.0",
     "keywords" : [
         "amazon",
@@ -11,8 +12,7 @@
     "homepage" : "https://webservices.amazon.com/paapi5/documentation/index.html",
     "license" : "Apache2.0",
     "authors" : [
-        { "name" : "Product Advertising API Team" },
-        { "name": "flowdee" }
+        { "name" : "Product Advertising API Team" }
     ],
     "require" : {
         "php" : ">=5.5",
