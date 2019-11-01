@@ -11,9 +11,8 @@
     ],
     "homepage" : "https://webservices.amazon.com/paapi5/documentation/index.html",
     "license" : "Apache-2.0",
-    "authors" : [
-        { "name" : "Product Advertising API Team" }
-    ],
+    "authors" : [ { "name" : "Product Advertising API Team" } ],
+    "minimum-stability": "dev",
     "require" : {
         "php" : ">=5.5",
         "guzzlehttp/guzzle" : "^6.2"
